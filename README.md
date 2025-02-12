@@ -6,4 +6,4 @@ The performance of deep learning keypoint detection networks with different para
 # Overall architecture for human back acupuncture point dataset construction and evaluation of various algorithms
 ![image](src/1_flow_chart/1_flow_chart_page-0001.jpg)
 # Comparison of prediction results
-![image](src/1_flow_chart/1_flow_chart_page-0001.jpg)
+![image](src/5_same_image/5_same_image_page-0001.jpg)
