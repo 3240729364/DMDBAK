@@ -17,3 +17,10 @@ The performance of deep learning keypoint detection networks with different para
 Our dataset website is available at https://www.kaggle.com/datasets/chunzheye/dmd-bak.
 ### Data Processing
 Process the downloaded dataset into coco or yolo format, our code handles coco format.
+- Put downloaded data into the following directory structure:
+```
+  - backacupoint_data/
+    - images/
+      -all_images
+    - labelme_jsons/
+      -all_jsons
