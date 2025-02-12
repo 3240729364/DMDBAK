@@ -24,6 +24,7 @@ Process the downloaded dataset into coco or yolo format, our code handles coco f
       -all_images
     - labelme_jsons/
       -all_jsons
+
 - Split dataset:
 ```
 python tools/dataset/split_dataset.py
