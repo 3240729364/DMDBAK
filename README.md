@@ -18,13 +18,13 @@ Our dataset website is available at https://www.kaggle.com/datasets/chunzheye/dm
 ### Data Processing
 Process the downloaded dataset into coco or yolo format, our code handles coco format.
 - Put downloaded data into the following directory structure:
-```
-  - backacupoint_data/
-    - images/
-      -all_images
-    - labelme_jsons/
-      -all_jsons
+  ```
+    - backacupoint_data/
+      - images/
+        -all_images
+      - labelme_jsons/
+        -all_jsons
 
 - Split dataset:
-```
-python tools/dataset/split_dataset.py
+  ```
+  python tools/dataset/split_dataset.py
