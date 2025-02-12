@@ -10,3 +10,5 @@ The performance of deep learning keypoint detection networks with different para
 # Data Preparation
 ### Please download our public dataset first
 Our dataset website is available at https://www.kaggle.com/datasets/chunzheye/dmd-bak.
+### Data Processing
+Process the downloaded dataset into coco or yolo format, our code handles coco format.
