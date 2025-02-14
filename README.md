@@ -34,3 +34,8 @@ Process the downloaded dataset into coco or yolo format, our code handles coco f
   ```
   python tools/dataset/test_labelme2coco.py
   ```
+
+# Model construction
+Our model building, training and evaluation are implemented under the MMPose toolbox.
+For the construction code of the relevant model, please refer to https://github.com/Ye-ChunZhe/mmpose.
+Please refer to the official documentation for setting up the MMPose toolbox environment.https://github.com/open-mmlab/mmpose
