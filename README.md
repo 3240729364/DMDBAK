@@ -27,3 +27,8 @@ Process the downloaded dataset into coco or yolo format, our code handles coco f
 - Split dataset:
   ```
   python tools/dataset/split_dataset.py
+- Conversion of labeling format to COCO format:
+  ```
+  python tools/dataset/val_labelme2coco.py
+  ```
+  python tools/dataset/test_labelme2coco.py
