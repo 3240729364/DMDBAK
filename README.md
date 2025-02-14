@@ -43,11 +43,11 @@ Please refer to the official documentation for setting up the MMPose toolbox env
 
 # Training & Testing
 ### Training:
-- Example: Back Detection Network Training
+- Example: Back detection model training
   ```
   python tools/train.py ../../config/back_detection/rtmdet_mm_back.py
-  
-- Example: Back Detection Network Training
-  
+- Example: Acupoint keypoint detection model training
+  ```
+  python tools/train.py ../../config/acupoint_detection/vitpose-s_256×192.py
 ### Testing:
 
