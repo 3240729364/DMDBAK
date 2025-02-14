@@ -58,3 +58,4 @@ Please refer to the official documentation for setting up the MMPose toolbox env
   python tools/train.py ../../config/acupoint_detection/vitpose-s_256×192.py ${CHECKPOINT_FILE} [--out ${RESULT_FILE}]
 # Acknowledge
 Many of the experiments in this project were implemented based on the MMPose toolkit, thanks to their excellent work!
+Thanks also to the volunteers who contributed back photos and acupoint labeling for this project!
