@@ -1,4 +1,4 @@
-# DMDBAK
+![image](https://github.com/user-attachments/assets/1e5bcd2a-f770-431c-a189-b13a64d7eb02)# DMDBAK
 This repo is the official implementation for <mark>Benchmark for Human Back Acupuncture Point Detection:Comprehensive Algorithmic Evaluation</mark>.
 
 # Benchmark for Human Back Acupuncture Point Detection
@@ -43,7 +43,11 @@ Please refer to the official documentation for setting up the MMPose toolbox env
 
 # Training & Testing
 ### Training:
-- Example: testing SelfGCN on NTU RGB+D 120 cross subject
+- Example: Back Detection Network Training
+  ```
+  python tools/train.py ../../config/back_detection/rtmdet_mm_back.py
+  
+- Example: Back Detection Network Training
   
 ### Testing:
 
