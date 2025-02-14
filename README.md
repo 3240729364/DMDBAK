@@ -43,13 +43,20 @@ Please refer to the official documentation for setting up the MMPose toolbox env
 
 - Build the project into the following directory structure:
 ```
-    - backacupoint_data
-    - config
-    - mmdetection
-    - mmpose
-    - mmpretrain
-    - src
-    - tools
+    - backacupoint_data/
+
+    - config/
+
+    - mmdetection/
+
+    - mmpose/
+
+    - mmpretrain/
+
+    - src/
+
+    - tools/
+
 
 # Training & Testing
 ### Training:
