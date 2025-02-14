@@ -50,4 +50,10 @@ Please refer to the official documentation for setting up the MMPose toolbox env
   ```
   python tools/train.py ../../config/acupoint_detection/vitpose-s_256×192.py
 ### Testing:
+- Example: Back detection model testing
+  ```
+  python tools/test.py ../../config/back_detection/rtmdet_mm_back.py
+- Example: Acupoint keypoint detection model testing ../../config/back_detection/rtmdet_mm_back.py ${CHECKPOINT_FILE} [--out ${RESULT_FILE}]
+  ```
+  python tools/train.py ../../config/acupoint_detection/vitpose-s_256×192.py ${CHECKPOINT_FILE} [--out ${RESULT_FILE}]
 
