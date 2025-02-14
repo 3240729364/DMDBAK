@@ -56,4 +56,5 @@ Please refer to the official documentation for setting up the MMPose toolbox env
 - Example: Acupoint keypoint detection model testing
   ```
   python tools/train.py ../../config/acupoint_detection/vitpose-s_256×192.py ${CHECKPOINT_FILE} [--out ${RESULT_FILE}]
-
+# Acknowledge
+Many of the experiments in this project were implemented based on the MMPose toolkit, thanks to their excellent work!
