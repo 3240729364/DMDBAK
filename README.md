@@ -41,6 +41,16 @@ For the construction code of the relevant model, please refer to https://github.
 
 Please refer to the official documentation for setting up the MMPose toolbox environment.https://github.com/open-mmlab/mmpose
 
+- Build the project into the following directory structure:
+```
+    - backacupoint_data
+    - config
+    - mmdetection
+    - mmpose
+    - mmpretrain
+    - src
+    - tools
+
 # Training & Testing
 ### Training:
 - Example: Back detection model training
