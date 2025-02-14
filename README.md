@@ -40,3 +40,10 @@ Our model building, training and evaluation are implemented under the MMPose too
 For the construction code of the relevant model, please refer to https://github.com/Ye-ChunZhe/mmpose.
 
 Please refer to the official documentation for setting up the MMPose toolbox environment.https://github.com/open-mmlab/mmpose
+
+# Training & Testing
+### Training:
+- Example: testing SelfGCN on NTU RGB+D 120 cross subject
+  
+### Testing:
+
