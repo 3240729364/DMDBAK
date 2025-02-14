@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e5bcd2a-f770-431c-a189-b13a64d7eb02)# DMDBAK
+# DMDBAK
 This repo is the official implementation for <mark>Benchmark for Human Back Acupuncture Point Detection:Comprehensive Algorithmic Evaluation</mark>.
 
 # Benchmark for Human Back Acupuncture Point Detection
