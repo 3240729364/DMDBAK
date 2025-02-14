@@ -56,7 +56,7 @@ Please refer to the official documentation for setting up the MMPose toolbox env
     - src/
 
     - tools/
-
+```
 
 # Training & Testing
 ### Training:
