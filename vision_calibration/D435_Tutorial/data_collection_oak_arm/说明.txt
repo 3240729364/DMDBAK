@@ -1,0 +1,11 @@
+采集标定板数据和机械臂末端位姿数据之前需要打开 相机和连接机械臂
+1、打开相机
+  cd ~/dai_ws
+  source devel/setup.bash
+  roslaunch depthai_examples stereo_inertial_node.launch
+
+2.设置 电脑的 ipv4和机械臂处于同一网段下
+  192.168.10.15
+
+3.运行 main.py程序
+  python3 main.py

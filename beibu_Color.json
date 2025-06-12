@@ -1,0 +1,546 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dazhu",
+      "points": [
+        [
+          111.47727272727275,
+          304.20454545454544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fengmen",
+      "points": [
+        [
+          135.5844155844156,
+          242.5974025974026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fengmen",
+      "points": [
+        [
+          142.72727272727272,
+          302.3376623376624
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "feishu",
+      "points": [
+        [
+          170.0,
+          304.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "feishu",
+      "points": [
+        [
+          164.375,
+          241.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jueyinshu",
+      "points": [
+        [
+          208.75,
+          306.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jueyinshu",
+      "points": [
+        [
+          202.5,
+          236.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "xinshu",
+      "points": [
+        [
+          245.625,
+          308.75
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "xinshu",
+      "points": [
+        [
+          241.25,
+          236.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gaohuang",
+      "points": [
+        [
+          199.23076923076923,
+          207.69230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gaohuang",
+      "points": [
+        [
+          210.76923076923077,
+          338.46153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tianzong",
+      "points": [
+        [
+          188.75,
+          151.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tianzong",
+      "points": [
+        [
+          203.75,
+          378.75
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jianjing",
+      "points": [
+        [
+          101.81818181818184,
+          363.29545454545456
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "naoshu",
+      "points": [
+        [
+          162.61363636363637,
+          442.27272727272725
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jianzhen",
+      "points": [
+        [
+          266.0227272727273,
+          447.3863636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "geshu",
+      "points": [
+        [
+          310.0,
+          309.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "geshu",
+      "points": [
+        [
+          309.33333333333337,
+          244.00000000000003
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ganshu",
+      "points": [
+        [
+          386.8539325842696,
+          307.97752808988764
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ganshu",
+      "points": [
+        [
+          389.10112359550556,
+          242.80898876404493
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "danshu",
+      "points": [
+        [
+          421.25,
+          304.375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "danshu",
+      "points": [
+        [
+          422.24719101123594,
+          238.31460674157302
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "pishu",
+      "points": [
+        [
+          449.16666666666663,
+          303.19444444444446
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "pishu",
+      "points": [
+        [
+          453.33333333333337,
+          240.69444444444446
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "weishu",
+      "points": [
+        [
+          479.7222222222223,
+          304.5833333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "weishu",
+      "points": [
+        [
+          480.41666666666663,
+          243.47222222222223
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sanjiaoshu",
+      "points": [
+        [
+          507.5968992248062,
+          305.8914728682171
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "sanjiaoshu",
+      "points": [
+        [
+          508.8888888888889,
+          246.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "shenshu",
+      "points": [
+        [
+          537.6136363636364,
+          303.6363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "back",
+      "points": [
+        [
+          40.923520923521096,
+          57.893217893217866
+        ],
+        [
+          631.9318181818182,
+          466.1363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jianjing",
+      "points": [
+        [
+          94.43181818181822,
+          165.5681818181818
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "naoshu",
+      "points": [
+        [
+          143.29545454545456,
+          82.04545454545453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "shenshu",
+      "points": [
+        [
+          540.4545454545455,
+          246.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dazhui",
+      "points": [
+        [
+          78.46153846153845,
+          277.6923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "jianzhen",
+      "points": [
+        [
+          231.36363636363637,
+          80.34090909090908
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dazhu",
+      "points": [
+        [
+          105.79545454545456,
+          242.84090909090907
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dachangshu",
+      "points": [
+        [
+          592.7272727272727,
+          243.97727272727275
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dachangshu",
+      "points": [
+        [
+          588.75,
+          303.6363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "beibu_Color.png",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
